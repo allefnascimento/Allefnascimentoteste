@@ -21,6 +21,8 @@ http://lb.kstream.org/aovivo/HD_ESPN_EXTRA/video.m3u8?token=74a0c82879f8a814b472
 http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
 #EXTINF:-1 type="stream" tvg-id="Fox Sports HD [Alter]" tvg-logo="https://i.ibb.co/sPwqG58/foxsports.png" group-title="Esporte",Fox Sports HD [Alter]
 http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
+#EXTINF:-1 type="stream" tvg-id="Fox Sports HD(ARG)" tvg-logo="https://i.ibb.co/sPwqG58/foxsports.png" group-title="Esporte",Fox Sports HD(ARG)
+https://8b7fz8k8brk75uyy.ezcdn462.net:8443/hls/kx8ric6rf.m3u8?s=_J5DuSUHU0D_r38AFL022g&e=1616327368
 #EXTINF:-1 type="stream" tvg-id="Fox Sports 2 HD" tvg-logo="https://i.ibb.co/mtBgHht/foxsports2.png" group-title="Esporte",Fox Sports 2 HD
 http://lb.kstream.org/aovivo/HD_FOX_SPORTS_2/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
 #EXTINF:-1 type="stream" tvg-id="Fox Sports 2 HD [Alter]" tvg-logo="https://i.ibb.co/mtBgHht/foxsports2.png" group-title="Esporte",Fox Sports 2 HD [Alter]
@@ -37,17 +39,17 @@ http://lb.kstream.org/aovivo/HD_SPORTV_2_ALTER/video.m3u8?token=74a0c82879f8a814
 http://lb.kstream.org/aovivo/HD_SPORTV_3/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
 #EXTINF:-1 type="stream" tvg-id="SporTV 3 HD [Alter]" tvg-logo="https://i.ibb.co/G7wwzFS/sportv3.png" group-title="Esporte",SporTV 3 HD [Alter]
 http://lb.kstream.org/aovivo/HD_SPORTV_3_ALTER/video.m3u8?token=74a0c82879f8a814b4728e5a4b0c7a4a
-#EXTINF:-1 type="stream" tvg-id="Sport-tv1" tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/194426bdba5e2b063fa49f1444604531/2d657837-6ac5-4249-b4f2-279faa3e8539_rwc_0x0x1754x298x4096.png?h=496218e2ec6b5f34051d26973e2dbcf5" group-title="Esporte",Sport-tv1
+#EXTINF:-1 type="stream" tvg-id="Sport-tv1 HD (POR)" tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/194426bdba5e2b063fa49f1444604531/2d657837-6ac5-4249-b4f2-279faa3e8539_rwc_0x0x1754x298x4096.png?h=496218e2ec6b5f34051d26973e2dbcf5" group-title="Esporte",Sport-tv1
 https://8b7fz8k8brk75uyy.ezcdn462.net:8443/hls/walxjawfo5x.m3u8?s=rqfLFi8i33GhkjPZ3J57gw&e=1616323791
-#EXTINF:-1 type="stream" tvg-id="Sport-tv2" tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/194426bdba5e2b063fa49f1444604531/2d657837-6ac5-4249-b4f2-279faa3e8539_rwc_0x0x1754x298x4096.png?h=496218e2ec6b5f34051d26973e2dbcf5" group-title="Esporte",Sport-tv2
+#EXTINF:-1 type="stream" tvg-id="Sport-tv2 HD (POR)" tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/194426bdba5e2b063fa49f1444604531/2d657837-6ac5-4249-b4f2-279faa3e8539_rwc_0x0x1754x298x4096.png?h=496218e2ec6b5f34051d26973e2dbcf5" group-title="Esporte",Sport-tv2
 https://8b7fz8k8brk75uyy.ezcdn462.net:8443/hls/u225jtufy2dkv.m3u8?s=ZhZ3QSVr57vdKQI_ZEb4kA&e=1616323665
-#EXTINF:-1 type="stream" tvg-id="Sport-tv3" tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/194426bdba5e2b063fa49f1444604531/2d657837-6ac5-4249-b4f2-279faa3e8539_rwc_0x0x1754x298x4096.png?h=496218e2ec6b5f34051d26973e2dbcf5" group-title="Esporte",Sport-tv3
+#EXTINF:-1 type="stream" tvg-id="Sport-tv3 HD (POR)" tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/194426bdba5e2b063fa49f1444604531/2d657837-6ac5-4249-b4f2-279faa3e8539_rwc_0x0x1754x298x4096.png?h=496218e2ec6b5f34051d26973e2dbcf5" group-title="Esporte",Sport-tv3
 https://8b7fz8k8brk75uyy.ezcdn462.net:8443/hls/t69y1s69ffvz.m3u8?s=ZptCLnvRlRt3twA-9stJgg&e=1616323837
-#EXTINF:-1 type="stream" tvg-id="Sky Sports" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Esporte",Sky Sports 
+#EXTINF:-1 type="stream" tvg-id="Sky Sports HD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Esporte",Sky Sports 
 https://sporting77.com/lba/NzkxNzgzYzU0MGE0NWZlNzMxMjRkZGZlYjQ5MGRlNjM=/g8/sspl.m3u8?token=NzkxNzgzYzU0MGE0NWZlNzMxMjRkZGZlYjQ5MGRlNjM=&id=ZWU2MTRjODM4YTZiM2RiOGU0YTIyNTNhNjE2YTFjMWE=&vip=1616295222&dip=MjQ0Yzg1YzExODdmNjBiZmIwZTY5MjM4NWI4NTA5Zjc=&pip=MTlmN2I0ODg1NzRkZmUwYWI0NzM3MzIwMWMzNzdmNTA=&hip=NDkwNWNiNzFiMmRhZGFlZDM5YmYxZjJiZjkzMWU2ZDY=
-#EXTINF:-1 type="stream" tvg-id="Sky Sports 2" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Esporte",Sky Sports 2
+#EXTINF:-1 type="stream" tvg-id="Sky Sports 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Esporte",Sky Sports 2
 https://8b7fz8k8brk75uyy.ezcdn462.net:8443/hls/bnurwvig3i.m3u8?s=1M_r8hv1Bnvj4j_9ykQowA&e=1616324302
-#EXTINF:-1 type="stream" tvg-id="Sky Sports 3" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Esporte",Sky Sports 3
+#EXTINF:-1 type="stream" tvg-id="Sky Sports 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0.png" group-title="Esporte",Sky Sports 3
 https://8b7fz8k8brk75uyy.ezcdn462.net:8443/hls/z60vln6kd.m3u8?s=XjmIxBfrfAjPdAXSoL-vKQ&e=1616324467
 #EXTINF:-1 type="stream" tvg-id="Rai Sport+HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Rai_Sport_-_Logo_2017.svg" group-title="Esporte",Rai Sport+HD
 https://2d02.janjua.pw:8088/live/sfdfdg/playlist.m3u8?vidictid=187077717234&id=103612&pk=8a135921bec85c751ebf3198ba017f168841fb949f3595dd4403d6e08e526ac4
@@ -55,6 +57,30 @@ https://2d02.janjua.pw:8088/live/sfdfdg/playlist.m3u8?vidictid=187077717234&id=1
 https://8b7fz8k8brk75uyy.ezcdn462.net:8443/hls/659emi1n06e.m3u8?s=nsU24KDsmlD1_1MYJs5CDA&e=1616325358
 #EXTINF:-1 type="stream" tvg-id="La Liga TV HD" tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/8/7/4/1315874_laligatvlogo_144485.jpg" group-title="Esporte",La Liga TV HD
 https://8b7fz8k8brk75uyy.ezcdn462.net:8443/hls/62jqaxux01.m3u8?s=GjQyHZ5_PN3w2pdvhj3F_w&e=1616325439
+#EXTINF:-1 type="stream" tvg-id="BeinSport HD(ESP)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Esporte",BeinSport HD (ESP)
+https://8b7fz8k8brk75uyy.ezcdn462.net:8443/hls/d76woup38t7p.m3u8?s=vNFR4Q_ih7DNvEz9id7zrQ&e=1616326132
+#EXTINF:-1 type="stream" tvg-id="BeinSport HD(FRA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Esporte",BeinSport HD (FRA)
+https://e1.espncdn.xyz/ingest013/55048.m3u8?sf=Y21kT05COFRFRw==&token=30maI7UqsPMt1l_c2wNoKg&expires=1616319196&rnd=
+#EXTINF:-1 type="stream" tvg-id="BeinSport HD(ENG)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Esporte",BeinSport HD (ENG)
+https://8b7fz8k8brk75uyy.ezcdn462.net:8443/hls/c2kxuno.m3u8?s=ghaZZAylRRGg-6KLNs2-RQ&e=1616326532
+#EXTINF:-1 type="stream" tvg-id="Canal+Sport HD(FRA)" tvg-logo="" group-title="Esporte",Canal+Sport HD(FRA)
+https://8b7fz8k8brk75uyy.ezcdn462.net:8443/hls/bjj9sfgzt9.m3u8?s=svBxHcjU447Mn8Aiq5Sq6w&e=1616326904
+#EXTINF:-1 type="stream" tvg-id="Directv HD" tvg-logo="https://www.pngkey.com/png/full/405-4059214_directv-sports-latin-america-directv-sports-2-logo.png" group-title="Esporte",Directv HD
+https://e6.espncdn.xyz/ingest02/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=mAqDqZ_jdqMtTNFAHQas3A&expires=1616320500&rnd=
+#EXTINF:-1 type="stream" tvg-id="Directv HD(ALT)" tvg-logo="https://www.pngkey.com/png/full/405-4059214_directv-sports-latin-america-directv-sports-2-logo.png" group-title="Esporte",Directv HD(ALT)
+https://e6.espncdn.xyz/ingest02/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=Cl5KpKfKT8NsRg8HX-kZrw&expires=1616320672&rnd=
+#EXTINF:-1 type="stream" tvg-id="Bayern-munich-tv-HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/02/bayern-munchen-logo-0.png" group-title="Esporte",Bayern-munich-tv-HD
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32-v1-a1.m3u8
+#EXTINF:-1 type="stream" tvg-id="Bayern-munich-tv-HD(ALT)" tvg-logo="https://logodownload.org/wp-content/uploads/2017/02/bayern-munchen-logo-0.png" group-title="Esporte",Bayern-munich-tv-HD(ALT)
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32-v1-a1.m3u8
+#EXTINF:-1 type="stream" tvg-id="Chelsea TV HD" tvg-logo="http://fomny.com/Video/United-kindom/Chelsea/logo.gif" group-title="Esporte",Chelsea TV HD
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32-v1-a1.m3u8
+
+
+
+
+
+
 
 
 
